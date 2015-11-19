@@ -1,5 +1,7 @@
 # Another grid system
 
+[![Join the chat at https://gitter.im/teles/another-grid-system](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/teles/another-grid-system?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Another grid system is a fully customizable grid system and mobile first utilities
 
 ## Roadmap
